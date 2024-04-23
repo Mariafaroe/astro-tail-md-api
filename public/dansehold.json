@@ -136,5 +136,28 @@
         "nythold": true,
         "rabat": false,
         "rabatsats": "5%"
+    },
+    {
+        "id": 7, 
+        "holdnavn": "Salsa for begyndere",
+        "holdbillede": "salsa.webp",
+        "hodlbilledealt": "Jitterbug dans",
+        "holdbeskrivelse": " Lær de pulserende rytmer og smidige trin i begynder salsa! Dette er din indgang til en verden af latinamerikansk dans, hvor du vil lære de grundlæggende bevægelser og få en følelse af glæde og frihed på dansegulvet",
+        "holdcatchline": "Find din rytme og frigør din lidenskab med salsa!", 
+        "tilmeldingslink": "/begyndersalsa",
+        "tidspunkt": "torsdag 18-20",
+        "underviser": "Maria",
+        "underviserfoto": "maria.jpeg",
+        "underviserfotoalt": "Maria - instruktør på salsa holdet", 
+        "underviserurl": "/undervisere/Maria",
+        "underviserinfo": "Maria Gonzalez er en karismatisk og dynamisk danselærer med en passion for latinamerikanske danse. Med sit solrige smil og energiske tilgang til undervisning inspirerer Maria sine elever til at føle musikken og udtrykke sig gennem dansen.",
+        "niveau": "Begynder",
+        "alder": "18+",
+        "lokale": "Koncertsalen",
+        "pladserpaaholdet": 20,
+        "antaldeltagere": 5,
+        "nythold": true,
+        "rabat": false
+       
     }
 ]
